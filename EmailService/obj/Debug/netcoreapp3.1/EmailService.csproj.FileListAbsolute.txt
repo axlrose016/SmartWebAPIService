@@ -1,0 +1,10 @@
+D:\Dev Folder\Passion Projects\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+D:\Dev Folder\Passion Projects\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+D:\Dev Folder\Passion Projects\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+D:\Dev Folder\Passion Projects\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.AssemblyReference.cache
+D:\Dev Folder\Passion Projects\EmailService\obj\Debug\netcoreapp3.1\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Folder\Passion Projects\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+D:\Dev Folder\Passion Projects\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+D:\Dev Folder\Passion Projects\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+D:\Dev Folder\Passion Projects\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+D:\Dev Folder\Passion Projects\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb

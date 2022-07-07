@@ -1,0 +1,10 @@
+D:\Dev Folder\Passion Projects\TwilioService\bin\Debug\netcoreapp3.1\TwilioService.deps.json
+D:\Dev Folder\Passion Projects\TwilioService\bin\Debug\netcoreapp3.1\TwilioService.dll
+D:\Dev Folder\Passion Projects\TwilioService\bin\Debug\netcoreapp3.1\TwilioService.pdb
+D:\Dev Folder\Passion Projects\TwilioService\obj\Debug\netcoreapp3.1\TwilioService.csproj.AssemblyReference.cache
+D:\Dev Folder\Passion Projects\TwilioService\obj\Debug\netcoreapp3.1\TwilioService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Folder\Passion Projects\TwilioService\obj\Debug\netcoreapp3.1\TwilioService.AssemblyInfoInputs.cache
+D:\Dev Folder\Passion Projects\TwilioService\obj\Debug\netcoreapp3.1\TwilioService.AssemblyInfo.cs
+D:\Dev Folder\Passion Projects\TwilioService\obj\Debug\netcoreapp3.1\TwilioService.csproj.CoreCompileInputs.cache
+D:\Dev Folder\Passion Projects\TwilioService\obj\Debug\netcoreapp3.1\TwilioService.dll
+D:\Dev Folder\Passion Projects\TwilioService\obj\Debug\netcoreapp3.1\TwilioService.pdb

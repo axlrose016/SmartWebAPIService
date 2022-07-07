@@ -1,0 +1,10 @@
+D:\Dev Folder\Passion Projects\SmartRepository\bin\Debug\netcoreapp3.1\SmartRepository.deps.json
+D:\Dev Folder\Passion Projects\SmartRepository\bin\Debug\netcoreapp3.1\SmartRepository.dll
+D:\Dev Folder\Passion Projects\SmartRepository\bin\Debug\netcoreapp3.1\SmartRepository.pdb
+D:\Dev Folder\Passion Projects\SmartRepository\obj\Debug\netcoreapp3.1\SmartRepository.csproj.AssemblyReference.cache
+D:\Dev Folder\Passion Projects\SmartRepository\obj\Debug\netcoreapp3.1\SmartRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Folder\Passion Projects\SmartRepository\obj\Debug\netcoreapp3.1\SmartRepository.AssemblyInfoInputs.cache
+D:\Dev Folder\Passion Projects\SmartRepository\obj\Debug\netcoreapp3.1\SmartRepository.AssemblyInfo.cs
+D:\Dev Folder\Passion Projects\SmartRepository\obj\Debug\netcoreapp3.1\SmartRepository.csproj.CoreCompileInputs.cache
+D:\Dev Folder\Passion Projects\SmartRepository\obj\Debug\netcoreapp3.1\SmartRepository.dll
+D:\Dev Folder\Passion Projects\SmartRepository\obj\Debug\netcoreapp3.1\SmartRepository.pdb
